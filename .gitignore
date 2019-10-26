@@ -6,7 +6,7 @@
 /.pnp
 .pnp.js
 /public/images
-/public/webfonts
+/public/fontawesome
 
 # testing
 /coverage
