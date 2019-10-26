@@ -1,9 +1,10 @@
 import React from 'react';
+import Link from 'next/link';
 
 const Header = () => {
   return (
     <>
-      <h3>Navbar</h3>
+      <h2>header</h2>
     </>
   );
 };

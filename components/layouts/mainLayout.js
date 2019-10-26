@@ -11,9 +11,9 @@ const MainLayout = props => {
           href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
           rel="stylesheet"
         />
-        <link rel="stylesheet" href="/static/css/all.min.css" />
-        <link rel="stylesheet" href="/static/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="/static/css/styles.css" />
+        <link rel="stylesheet" href="/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="/fontawesome/css/all.min.css" />
+        <link rel="stylesheet" href="/css/styles.css" />
       </Head>
 
       <div className="mainLayout_container">
